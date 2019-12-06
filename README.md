@@ -10,4 +10,10 @@ Die Erweiterung ergänzt Funktionen für die Bulk-Bearbeitung von Eigenschaften 
 
 Du möchtest von mehreren Seiten den Besitzer und die Zugriffsrechte anpassen, das lästige einzelne Auswählen der neuen Werte ist jetzt endlich vorbei.
 
+## Available functions
+- Bulk edits for selection boxes
+- Reverse Check Box button
 
+## To-do list
+- Bulk edits for all other fields (input, checkbox, etc.)
+- simplify code
