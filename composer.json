@@ -17,7 +17,9 @@
   },
   "conflict": {
     "contao/core": "*",
-    "contao/manager-plugin": "<2.0 || >=3.0"
+    "contao/manager-plugin": "<2.0 || >=3.0",
+    "jrgregory/m17-sticky-backend-footer": "^2.0",
+    "terminal42/contao-easy_themes": "^2.2"
   },
   "require-dev": {
     "contao/manager-plugin": "^2.0",

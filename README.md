@@ -1,18 +1,20 @@
 # Backend helper bundle for Contao CMS
 
-The extension adds features for bulk editing of page structure properties.
+The extension adds some basic functions, features and bundles to Contao backend.
 
-You want to customize the owner and access rights from multiple pages, the annoying single selection of the new values is finally over.
+## Features in this bundle
+- Bulk edits for selection boxes
+- Reverse Check Box button
+
+## New functions through dependencies 🛠
+
+- [🔒 Sticky Backend Footer](https://github.com/jrgregory/m17-sticky-backend-footer/) Placement of the action buttons at the bottom of the screen.
+- [🔗 EasyThemes](https://github.com/terminal42/contao-easy_themes) Place important links in the main navigation
 
 ## German
 
-Die Erweiterung ergänzt Funktionen für die Bulk-Bearbeitung von Eigenschaften der Seitenstruktur.
+Die Erweiterung ergänzt einige Funktionen für das Contao Backend.
 
-Du möchtest von mehreren Seiten den Besitzer und die Zugriffsrechte anpassen, das lästige einzelne Auswählen der neuen Werte ist jetzt endlich vorbei.
-
-## Available functions
-- Bulk edits for selection boxes
-- Reverse Check Box button
 
 ## To-do list
 - Bulk edits for all other fields (input, checkbox, etc.)
